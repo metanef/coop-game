@@ -1,0 +1,54 @@
+#gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: fixed; /* Position fixe pour le carousel */
+    top: 0; /* Couvrir toute la fenêtre */
+    left: 0; /* Couvrir toute la fenêtre */
+    width: 100%; /* Largeur complète */
+    height: 100%; /* Hauteur complète */
+    background-color: rgba(0, 0, 0, 0.8); /* Arrière-plan sombre avec transparence */
+    z-index: 1000; /* Assurez-vous qu'il soit au-dessus des autres éléments */
+}
+
+#gallery button {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#close-gallery {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#gallery img {
+    max-width: 90%; /* Largeur maximum de l'image */
+    max-height: 90%; /* Hauteur maximum de l'image */
+    border-radius: 8px; /* Coins arrondis pour l'image */
+}
+
+#gallery button:nth-of-type(2) { /* Bouton Précédent */
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#gallery button:nth-of-type(3) { /* Bouton Suivant */
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}

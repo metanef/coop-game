@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Details</title>
+    <link rel="icon" href="../src/img/icon.ico">
+    <link rel="stylesheet" href="../src/css/styles.css">
+</head>
+<body>
+    <header>
+        <img id="logo" src="../src/img/logo.png" alt="W4SD Logo">
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="game-details-main">
+        <section id="game-container">
+            <h2 id="game-title"></h2>
+            <div class="game-info">
+                <p><strong>Players:</strong> <span id="game-players"></span></p>
+                <p><strong>Multiplayer:</strong> <span id="multiplayer-type"></span></p>
+                <p><strong>Genre:</strong> <span id="game-genre"></span></p>
+            </div>
+            <p><strong>Release date:</strong> <span id="game-release-date"></span></p>
+            <p><strong>Developer:</strong> <span id="game-developer"></span></p>
+            <p><strong>Summary:</strong> <span id="game-summary"></span></p>
+            <div id="game-screenshots"></div>
+            <div class="shop-button-container">
+                <a id="shop-link" href="#" target="_blank" class="shop-button">Get the game</a>
+            </div>
+        </section>
+    </main>
+    <!-- Import du footer -->
+    <div id="footer-container"></div> <!-- Conteneur pour le footer -->
+    
+    <script type="module" src="../script.js"></script>
+    <script>
+        // Chargement du footer
+        fetch('templates/footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+</body>
+</html>

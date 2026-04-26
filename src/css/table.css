@@ -1,0 +1,75 @@
+/* src/css/table.css */
+
+#games-list {
+    max-height: 50vh;
+    overflow-y: auto;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+
+/* Custom scrollbar styles */
+#games-list::-webkit-scrollbar {
+    width: 16px;
+}
+
+#games-list::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0);
+}
+
+#games-list::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+    border: 3px solid transparent;
+    background-clip: padding-box;
+}
+
+#games-list::-webkit-scrollbar-thumb:hover {
+    background: #888;
+}
+
+#games-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#table-header {
+    background-color: #f2f2f2;
+    position: sticky;
+    top: 0;
+    border: 0px solid #ddd;
+}
+
+.sort-icon {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.sort-icon:hover {
+   color: gray;
+}
+
+#games-table th, 
+#games-table td {
+    padding: 8px;
+    text-align: left;
+}
+
+#games-table th {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+#games-table td {
+    border: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="icon" href="../src/img/icon.ico">
+    <link rel="stylesheet" href="../src/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <img id="logo" src="../src/img/logo.png" alt="W4SD Logo">
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="game-container">
+            <h2 class="intro-title">About us</h2>
+            <p class="intro-text">
+                We are passionate about video games and aim to provide you with the best selection of local coop games.
+                Remembering every memories of playing multiplayer games on the same keyboard when we were young, we wanted to give an easy access to them.
+                <br><br>
+                Explore our game list, read detailed game descriptions, and find links to purchase your favorites.
+                <br><br>
+                Thank you for visiting!
+            </p>
+
+            <div class="user-picture">
+                <img src="../src/img/m1m1.png" alt="User Picture">
+            </div>
+
+            <p class="intro-text">
+                <i class="fa-regular fa-copyright"></i> 2025 made by m1m1
+            </p>
+        </section>
+    </main>
+    <!-- Import du footer -->
+    <div id="footer-container"></div> <!-- Conteneur pour le footer -->
+    <script>
+        // Chargement du footer
+        fetch('templates/footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+# TODO List
+
+## High Priority
+- [ ] Task 1: Add every pictures
+- [x] Task 2: Rename Pictures folders
+
+## Medium Priority
+- [x] Task 3: Make an icon for the website
+- [ ] Task 4: find a way to stock images
+
+## Low Priority
+- [ ] Task 5: add arrow on game detail to navigate to the next and precedent game
+- [ ] Task 6: 
+
+## Completed

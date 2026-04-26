@@ -1,0 +1,44 @@
+#game-title {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.game-info {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+  justify-content: center;
+}
+
+#game-screenshots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+#game-screenshots img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.shop-button-container {
+  display: flex;
+  justify-content: center; /* Centre le contenu horizontalement */
+  margin-top: 20px; /* Espace au-dessus du bouton */
+}
+
+.shop-button {
+  padding: 15px 30px; /* Espacement autour du texte */
+  background-color: #007bff; /* Couleur de fond du bouton */
+  color: white; /* Couleur du texte */
+  text-decoration: none; /* Enlève le soulignement */
+  border-radius: 5px; /* Coins arrondis */
+  font-size: 18px; /* Taille de la police */
+  transition: background-color 0.3s; /* Effet de transition */
+}
+
+.shop-button:hover {
+  background-color: #0056b3; /* Couleur au survol */
+}

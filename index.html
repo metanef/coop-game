@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Video Games</title>
+    <link rel="icon" href="src/img/icon.ico">
+    <link rel="stylesheet" href="src/css/styles.css">
+</head>
+<body>
+    <header>
+        <img id="logo" src="src/img/logo.png" alt="W4SD Logo">
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="pages/about.html">About</a></li> <!-- Lien vers la page About -->
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="game-container">
+            <h3 class="intro-title">Welcome to W4SD : a local coop game hub</h3>
+            <p class="intro-text">
+                Here, you'll find a list of multiplayer and competitive games perfect for fun with friends and family <br> 
+                Whether you're into action, strategy, sports or party games, dive in and discover your new favorite game
+            </p>
+            <h2>Game List</h2>
+            <div id="games-list"></div> <!-- Container for games -->
+        </section>
+    </main>
+
+    <!-- Import du footer -->
+    <div id="footer-container"></div> <!-- Conteneur pour le footer -->
+    <script>
+        // Chargement du footer
+        fetch('pages/templates/footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+    <script type="module" src="script.js"></script>
+</body>
+</html>
