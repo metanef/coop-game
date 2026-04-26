@@ -6,6 +6,7 @@
     <title>Game Details</title>
     <link rel="icon" href="../src/img/icon.ico">
     <link rel="stylesheet" href="../src/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
     <header>
@@ -18,6 +19,14 @@
         </nav>
     </header>
     <main id="game-details-main">
+        <!-- Navigation Arrows -->
+        <button id="prev-game" class="nav-arrow nav-arrow-prev" aria-label="Previous game">
+            <i class="fas fa-chevron-left"></i>
+        </button>
+        <button id="next-game" class="nav-arrow nav-arrow-next" aria-label="Next game">
+            <i class="fas fa-chevron-right"></i>
+        </button>
+
         <section id="game-container">
             <h2 id="game-title"></h2>
             <div class="game-info">
