@@ -6,6 +6,8 @@ A modern web application showcasing a curated collection of multiplayer and comp
 
 W4SD is a local cooperative game hub that brings together diverse gaming experiences. Whether you're into action, strategy, sports, or party games, W4SD helps you discover your next favorite multiplayer game. This project features a beautiful gallery of games with detailed information, screenshots, and links to shop pages.
 
+[Demo Live](https://metanef.github.io/coop-game/)
+
 ## Features
 
 ✨ **Game Gallery** - Browse through a diverse collection of multiplayer games  
