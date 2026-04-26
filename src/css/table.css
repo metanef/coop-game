@@ -1,75 +1,127 @@
-/* src/css/table.css */
+/* BENTO - Table Styles */
 
 #games-list {
-    max-height: 50vh;
+    max-height: 60vh;
     overflow-y: auto;
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-    border-right: 1px solid #ddd;
+    background: transparent;
+    border-radius: var(--border-radius);
+    padding: 10px;
 }
-
 
 /* Custom scrollbar styles */
 #games-list::-webkit-scrollbar {
-    width: 16px;
+    width: 8px;
 }
 
 #games-list::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0);
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
 }
 
 #games-list::-webkit-scrollbar-thumb {
-    background: #888;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     border-radius: 10px;
-    border: 3px solid transparent;
+    border: 2px solid transparent;
     background-clip: padding-box;
 }
 
 #games-list::-webkit-scrollbar-thumb:hover {
-    background: #888;
+    background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%);
+    background-clip: padding-box;
 }
 
 #games-table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0 15px;
 }
 
 #table-header {
-    background-color: #f2f2f2;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     position: sticky;
     top: 0;
-    border: 0px solid #ddd;
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+    color: white;
+    box-shadow: var(--shadow-md);
 }
 
 .sort-icon {
-    margin-left: 5px;
+    margin-left: 8px;
     cursor: pointer;
+    transition: transform 0.2s ease;
+    opacity: 0.7;
 }
 
 .sort-icon:hover {
-   color: gray;
+   opacity: 1;
+   transform: scale(1.1);
 }
 
-#games-table th, 
+#games-table th,
 #games-table td {
-    padding: 8px;
+    padding: 16px 20px;
     text-align: left;
+    border: none;
 }
 
 #games-table th {
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    border-bottom: none;
 }
 
 #games-table td {
-    border: 1px solid #ddd;
+    background: white;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-sm);
+    transition: all 0.3s ease;
+    position: relative;
 }
 
-tr:hover {
-    background-color: #f1f1f1;
+#games-table td:first-child {
+    border-top-left-radius: var(--border-radius);
+    border-bottom-left-radius: var(--border-radius);
+}
+
+#games-table td:last-child {
+    border-top-right-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
+}
+
+#games-table tr {
+    transition: all 0.3s ease;
+}
+
+#games-table tr:hover td {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
 }
 
 a {
-    color: blue;
+    color: var(--accent);
     text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    position: relative;
+}
+
+a:hover {
+    color: var(--accent-hover);
+}
+
+a::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    transition: width 0.3s ease;
+}
+
+a:hover::after {
+    width: 100%;
 }

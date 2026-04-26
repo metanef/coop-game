@@ -1,44 +1,133 @@
+/* BENTO - Game Details */
 #game-title {
   padding-top: 20px;
   text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 40px;
+  line-height: 1.2;
 }
 
 .game-info {
-  display: flex;
-  gap: 15px;
-  margin-bottom: 20px;
-  text-align: center;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.game-info > div {
+  background: white;
+  border-radius: var(--border-radius);
+  padding: 25px;
+  box-shadow: var(--shadow-md);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.game-info > div::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.game-info > div:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+}
+
+.game-info label {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 1px;
+  display: block;
+  margin-bottom: 8px;
+  color: var(--text-secondary);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.game-info p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-primary);
 }
 
 #game-screenshots {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+  margin: 40px 0;
 }
 
 #game-screenshots img {
-  max-width: 200px;
-  height: auto;
-  border-radius: 4px;
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+#game-screenshots img:hover {
+  transform: scale(1.05) rotate(1deg);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--accent);
 }
 
 .shop-button-container {
   display: flex;
-  justify-content: center; /* Centre le contenu horizontalement */
-  margin-top: 20px; /* Espace au-dessus du bouton */
+  justify-content: center;
+  margin-top: 50px;
 }
 
 .shop-button {
-  padding: 15px 30px; /* Espacement autour du texte */
-  background-color: #007bff; /* Couleur de fond du bouton */
-  color: white; /* Couleur du texte */
-  text-decoration: none; /* Enlève le soulignement */
-  border-radius: 5px; /* Coins arrondis */
-  font-size: 18px; /* Taille de la police */
-  transition: background-color 0.3s; /* Effet de transition */
+  padding: 16px 32px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: none;
+  box-shadow: var(--shadow-md);
+  position: relative;
+  overflow: hidden;
+}
+
+.shop-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s ease;
+}
+
+.shop-button:hover::before {
+  left: 100%;
 }
 
 .shop-button:hover {
-  background-color: #0056b3; /* Couleur au survol */
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%);
 }
