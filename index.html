@@ -30,16 +30,6 @@
         </section>
     </main>
 
-    <!-- Import du footer -->
-    <div id="footer-container"></div> <!-- Conteneur pour le footer -->
-    <script>
-        // Chargement du footer
-        fetch('pages/templates/footer.html')
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById('footer-container').innerHTML = data;
-            });
-    </script>
     <script type="module" src="script.js"></script>
 </body>
 </html>

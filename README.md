@@ -34,7 +34,6 @@ coop-game/
 │   ├── about.html         # About page
 │   ├── game-details.html  # Game details page
 │   └── templates/
-│       └── footer.html    # Reusable footer
 ├── src/
 │   ├── css/               # Stylesheets
 │   │   ├── styles.css     # Main styles
@@ -119,7 +118,6 @@ Games are stored in `data/games.json` with the following structure:
 - ✅ Game gallery with filtering
 - ✅ Detailed game information pages
 - ✅ Responsive design
-- ✅ Footer template system
 
 ### TODO
 - ⏳ Add all game pictures
