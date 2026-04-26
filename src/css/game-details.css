@@ -1,10 +1,10 @@
-/* BENTO - Game Details */
+/* BENTO BLACK - Game Details */
 #game-title {
   padding-top: 20px;
   text-align: center;
   font-size: 36px;
   font-weight: 700;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -20,11 +20,11 @@
 }
 
 .game-info > div {
-  background: white;
+  background: var(--card-bg);
   border-radius: var(--border-radius);
   padding: 25px;
   box-shadow: var(--shadow-md);
-  border: 1px solid rgba(0, 0, 0, 0.05);
+  border: var(--border);
   transition: all 0.3s ease;
   position: relative;
   overflow: hidden;
@@ -37,12 +37,13 @@
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
 }
 
 .game-info > div:hover {
   transform: translateY(-5px);
   box-shadow: var(--shadow-lg);
+  border-color: var(--accent);
 }
 
 .game-info label {
@@ -95,7 +96,7 @@
 
 .shop-button {
   padding: 16px 32px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
   color: white;
   text-decoration: none;
   border-radius: 30px;
@@ -129,5 +130,5 @@
 .shop-button:hover {
   transform: translateY(-3px);
   box-shadow: var(--shadow-lg);
-  background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%);
+  background: linear-gradient(135deg, #7c3aed 0%, #9333ea 100%);
 }

@@ -1,4 +1,4 @@
-/* BENTO - Table Styles */
+/* BENTO BLACK - Table Styles */
 
 #games-list {
     max-height: 60vh;
@@ -14,19 +14,19 @@
 }
 
 #games-list::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0.05);
+    background: rgba(64, 64, 64, 0.3);
     border-radius: 10px;
 }
 
 #games-list::-webkit-scrollbar-thumb {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
     border-radius: 10px;
     border: 2px solid transparent;
     background-clip: padding-box;
 }
 
 #games-list::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%);
+    background: linear-gradient(135deg, #7c3aed 0%, #9333ea 100%);
     background-clip: padding-box;
 }
 
@@ -37,7 +37,7 @@
 }
 
 #table-header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
     position: sticky;
     top: 0;
     border-radius: var(--border-radius) var(--border-radius) 0 0;
@@ -73,9 +73,6 @@
 }
 
 #games-table td {
-    background: white;
-    border-radius: var(--border-radius);
-    box-shadow: var(--shadow-sm);
     transition: all 0.3s ease;
     position: relative;
 }
@@ -96,7 +93,7 @@
 
 #games-table tr:hover td {
     transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
+    background: var(--card-hover);
 }
 
 a {
@@ -118,7 +115,7 @@ a::after {
     left: 0;
     width: 0;
     height: 2px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%);
     transition: width 0.3s ease;
 }
 
