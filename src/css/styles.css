@@ -46,7 +46,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
-  gap: 40px;
 }
 
 #logo {
@@ -193,26 +192,6 @@ main {
   display: inline-block;
 }
 
-.user-picture {
-  display: flex;
-  justify-content: center;
-  margin: 30px 0;
-}
-
-.user-picture img {
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 4px solid var(--card-hover);
-  box-shadow: var(--shadow-md);
-  transition: transform 0.3s ease;
-}
-
-.user-picture img:hover {
-  transform: scale(1.05);
-}
-
 /* ABOUT PAGE STYLES */
 #about-container {
   max-width: 1400px;
@@ -334,12 +313,6 @@ main {
   gap: 30px;
   max-width: 100%;
   margin: 0 auto;
-  transition: all 0.3s ease;
-}
-
-.creator-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
 }
 
 .creator-avatar {
@@ -353,6 +326,11 @@ main {
   object-fit: cover;
   border: 4px solid var(--accent);
   box-shadow: var(--shadow-md);
+  transition: transform 0.3s ease;
+}
+
+.creator-avatar img:hover {
+  transform: scale(1.05);
 }
 
 .creator-info {
@@ -464,29 +442,6 @@ main {
     grid-template-columns: 1fr;
     min-height: auto;
     gap: 30px;
-  }
-
-  .about-left-column,
-  .about-right-column {
-    height: auto;
-    justify-content: flex-start;
-    width: 100%;
-  }
-
-  .creator-card {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .creator-info {
-    text-align: center;
-  }
-
-  .features-grid {
-    grid-template-columns: 1fr;
-  }
-
-  #about-container {
     padding: 20px 15px;
   }
 
