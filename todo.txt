@@ -10,6 +10,4 @@
 
 ## Low Priority
 - [x] Task 5: add arrow on game detail to navigate to the next and precedent game
-- [ ] Task 6: 
-
-## Completed
+- [ ] Task 6: extraire header dans un fichier à part et l'importer dans chaque page
