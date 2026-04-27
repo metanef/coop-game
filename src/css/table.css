@@ -1,7 +1,7 @@
 /* BENTO BLACK - Table Styles */
 
 #games-list {
-    max-height: 60vh;
+    max-height: 78%;
     overflow-y: auto;
     background: transparent;
     border-radius: var(--border-radius);

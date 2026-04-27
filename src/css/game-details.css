@@ -68,7 +68,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 20px;
-  margin: 40px 0;
+  margin: 30px 0;
 }
 
 #game-screenshots img {
@@ -91,7 +91,6 @@
 .shop-button-container {
   display: flex;
   justify-content: center;
-  margin-top: 50px;
 }
 
 .shop-button {
