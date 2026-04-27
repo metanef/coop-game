@@ -9,7 +9,7 @@ W4SD is a local cooperative game hub that brings together diverse gaming experie
 [Demo Live](https://metanef.github.io/coop-game/)
 
 <p align="center">
-  <img width="428" alt="image" src="https://github.com/user-attachments/assets/ff4a99bc-68d8-446b-a237-9061953e0e00" />
+  <img width="420" alt="image" src="https://github.com/user-attachments/assets/ff4a99bc-68d8-446b-a237-9061953e0e00" />
   <img width="420" alt="image" src="https://github.com/user-attachments/assets/89b61c24-2f8e-4c52-9e4c-e101706ea2ef" />
 </p>
 
