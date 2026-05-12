@@ -2305,7 +2305,10 @@
     "releaseDate": "2022",
     "developer": "ScruffyDragon Productions",
     "summary": "A 2D fighting game using the MUGEN engine, featuring super-deformed versions of DC Universe characters battling across iconic locations.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/151/img1.webp",
+      "../src/img/151/img2.webp"
+    ],
     "shopLink": "https://pocket-world-dc-edition.en.uptodown.com/windows"
   },
   {
@@ -2317,7 +2320,10 @@
     "releaseDate": "1996, 2006",
     "developer": "POW Games",
     "summary": "Brick breaking retro action Arkanoid fans will love. Breakout with a few added twists. Farm Alchemite by destroying each level with your balls and weapons. Mysterious power-ups. Navigate through sub-games. Buy extra ammo, balls and lives to help you progress through increasingly difficult levels. Fun played solo or up to 3 players local multiplayer.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/152/img1.png",
+      "../src/img/152/img2.png"
+    ],
     "shopLink": "https://powgames.itch.io/powball-deluxe"
   },
   {
@@ -2329,7 +2335,10 @@
     "releaseDate": "2013, 2025",
     "developer": "Jei, Bomberman community",
     "summary": "A feature-rich Bomberman fangame. It is still in development, but a playable build is out. More infos here : https://www.bombermanboard.com/viewtopic.php?t=1925",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/153/img1.webp",
+      "../src/img/153/img2.webp"
+    ],
     "shopLink": "https://power-bomberman.fr.uptodown.com/windows"
   },
   {
@@ -2341,7 +2350,10 @@
     "releaseDate": "2017",
     "developer": "MersoX",
     "summary": "Power Rangers: Beats of Power is a FREE fan-made beat-em-up videogame for PC and Mac. It combines aspects of classic Power Rangers video games for the Super Nintendo and Sega Genesis, as well as adding original elements.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/154/img1.webp",
+      "../src/img/154/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/power-rangers-beats-of-power/30577"
   },
   {
@@ -2353,7 +2365,10 @@
     "releaseDate": "2015",
     "developer": "Daniel Linssen",
     "summary": "Four players each take control of a superhero and work together to escape the laboratory!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/155/img1.png",
+      "../src/img/155/img2.png"
+    ],
     "shopLink": "https://managore.itch.io/supersupersupersuper"
   },
   {
@@ -2365,7 +2380,10 @@
     "releaseDate": "2004",
     "developer": "Pengo, Fan made",
     "summary": "Push-Push Penguin est un remake du jeu d'arcade original de Sega de 1982, Pengo. Guidez Pen-Pen ou sa chérie Deda-Deda dans les labyrinthes et essayez d'écraser tous les monstres à l'écran à l'aide des blocs de glace disséminés.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/156/img1.gif",
+      "../src/img/156/img2.gif"
+    ],
     "shopLink": "https://pushpush-penguin.en.uptodown.com/windows"
   },
   {
@@ -2377,7 +2395,10 @@
     "releaseDate": "2018",
     "developer": "SimoGecko, p1nkmaria",
     "summary": "Help Joe push a trolley through a delivery warehouse on your first day at a job at rainforest, Inc. Pick up boxes of the right size and carry them to the appropriate shelf. Watch out for space on your trolley and avoid boxes from falling out of the conveyor belt, or else you will get fired!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/157/img1.png",
+      "../src/img/157/img2.png"
+    ],
     "shopLink": "https://simogecko.itch.io/rainforest"
   },
   {
@@ -2389,7 +2410,10 @@
     "releaseDate": "2012",
     "developer": "Ubisoft Montpellier",
     "summary": "A 2D platformer featuring Rayman and friends as they battle the Darktoons to save the Glade of Dreams, offering both single-player and co-op modes.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/158/img1.jpg",
+      "../src/img/158/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/207490/Rayman_Origins/"
   },
   {
@@ -2401,7 +2425,10 @@
     "releaseDate": "2021",
     "developer": "MugenNationGameplay",
     "summary": "none",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/159/img1.webp",
+      "../src/img/159/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/redearth/573644"
   },
   {
@@ -2413,7 +2440,10 @@
     "releaseDate": "2018",
     "developer": "Powerhoof",
     "summary": "A multiplayer party game where players control giant mechanical robots to play basketball, coordinating with teammates to operate thrusters, magnet arms, and wheels in chaotic matches.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/160/img1.jpg",
+      "../src/img/160/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/661940/Regular_Human_Basketball/"
   },
   {
