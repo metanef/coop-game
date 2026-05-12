@@ -2907,7 +2907,10 @@
     "releaseDate": "2011",
     "developer": "SEEP",
     "summary": "A fan-made beat 'em up game using the OpenBOR engine, allowing players to control Mario or Luigi in various modes to save the Mushroom Kingdom from Bowser.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/191/img1.png",
+      "../src/img/191/img2.png"
+    ],
     "shopLink": "https://www.gamebrew.org/wiki/Super_Mario_Brawl_PSP"
   },
   {
@@ -2919,7 +2922,10 @@
     "releaseDate": "2013",
     "developer": "Neverpants",
     "summary": "Super Punchball is a 4-player sports game where players can engage in local multiplayer games of boxing or soccer using various controllers, including Xbox 360 controllers and keyboard controls.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/192/img1.png",
+      "../src/img/192/img2.png"
+    ],
     "shopLink": "https://neverpants.itch.io/super-punchball"
   },
   {
@@ -2931,7 +2937,9 @@
     "releaseDate": "",
     "developer": "Mugen community",
     "summary": "A MUGEN-based fan game that enhances the classic Super Street Fighter 2 Turbo with additional features and characters.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/193/img1.webp"
+    ],
     "shopLink": "https://mugenplayer.blogspot.com/2020/07/super-street-fighter-2-turbo-plus-snes.html"
   },
   {
@@ -2943,7 +2951,10 @@
     "releaseDate": "2019",
     "developer": "Cobra Caddie",
     "summary": "A MUGEN adaptation that brings the Street Fighter experience to an NES-style platform with unique gameplay elements.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/194/img1.webp",
+      "../src/img/194/img2.webp"
+    ],
     "shopLink": "https://mugenguild.com/forum/PHPSESSID.ncg5lf95a92i2gtri47adf9btn/topics/mighty-street-fighter-formerly-sf2nes-185528.0.html"
   },
   {
@@ -2955,7 +2966,10 @@
     "releaseDate": "2011",
     "developer": "MythoLogic Interactive",
     "summary": "An action-packed 2D platformer where players engage in chaotic battles using a variety of weapons and tactics.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/195/img1.webp",
+      "../src/img/195/img2.webp"
+    ],
     "shopLink": "https://mythologicinteractive.com/Superfighters"
   },
   {
@@ -2967,7 +2981,10 @@
     "releaseDate": "2018",
     "developer": "MythoLogic Interactive",
     "summary": "Superfighters Deluxe is a unique action game that combines brawling, shooting and platforming in dynamic sandboxy 2D levels. Lots of weapons and fun gameplay systems interlock to create absurd action-movie chaos.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/196/img1.jpg",
+      "../src/img/196/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/855860/Superfighters_Deluxe/"
   },
   {
@@ -2979,7 +2996,10 @@
     "releaseDate": "",
     "developer": "farmergnome",
     "summary": "The time is the distant future. the place is neo kalifornyO, a peaceful city ruled by the law of zen until gangs of surf samurai arrived, bringing their ancient feudal conflicts to the beachfront. now the city is desperate for a hero…",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/197/img1.jpg",
+      "../src/img/197/img2.jpg"
+    ],
     "shopLink": "https://farmergnome.itch.io/surf-shogun"
   },
   {
@@ -2991,7 +3011,11 @@
     "releaseDate": "2017",
     "developer": "Reactive Drop Team",
     "summary": "Co-operative top-down shooter game available for free. An epic bug hunt featuring a unique blend of co-op play and squad-level tactics.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/198/img1.jpg",
+      "../src/img/198/img2.jpg",
+      "../src/img/198/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/"
   },
   {
@@ -3003,7 +3027,10 @@
     "releaseDate": "2016",
     "developer": "UnknownLogicStudios",
     "summary": "A co-op endless runner style game where both players are attached by a rope and can use this rope to swing off of each other. Just make sure one of you holds on.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/199/img1.png",
+      "../src/img/199/img2.png"
+    ],
     "shopLink": "https://unknownlogicstudios.itch.io/swing-on-me"
   },
   {
@@ -3015,7 +3042,11 @@
     "releaseDate": "2015",
     "developer": "Dingo games",
     "summary": "An underwater side-scrolling game where you start as a small goldfish with an insatiable appetite, escaping into the ocean and eating everything you encounter to grow larger.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/200/img1.jpg",
+      "../src/img/200/img2.jpg",
+      "../src/img/200/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/345200/Tasty_Blue/"
   },
   {
