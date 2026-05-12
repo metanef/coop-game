@@ -2455,7 +2455,11 @@
     "releaseDate": "2019",
     "developer": "Mugen community",
     "summary": "A fan-made fighting game using the MUGEN engine, featuring characters from the Resident Evil series in 2D combat scenarios.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/161/img1.webp",
+      "../src/img/161/img2.webp",
+      "../src/img/161/img3.webp"
+    ],
     "shopLink": "https://mugenguild.com/forum/topics/resident-evil-mugen-1-1-full-game-186128.0.html"
   },
   {
@@ -2467,7 +2471,10 @@
     "releaseDate": "",
     "developer": "George Prosser",
     "summary": "Shoot your friends in this turn-based archery game where the main mechanic is gravity! Aim carefully and move strategically to be the last player standing in a cosmic deathmatch.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/162/img1.gif",
+      "../src/img/162/img2.gif"
+    ],
     "shopLink": "https://gprosser.itch.io/sagittarius"
   },
   {
@@ -2479,7 +2486,9 @@
     "releaseDate": "2011",
     "developer": "Fan community project",
     "summary": "A fan-developed 2D fighting game using the MUGEN engine, featuring characters from the Saint Seiya series with various stages and special moves.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/163/img1.jpg"
+    ],
     "shopLink": "https://mail.jeuxmangas.com/jeux-mugen/10146-saint-seiya-ultimate-cosmo-2-2-2018"
   },
   {
@@ -2491,7 +2500,11 @@
     "releaseDate": "2013",
     "developer": "Beau Blyth, Doseone",
     "summary": "A fast-paced local multiplayer game where players engage in one-hit-kill duels using swords and guns, set in a stylized feudal Japan.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/164/img1.jpg",
+      "../src/img/164/img2.jpg",
+      "../src/img/164/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/239090/Samurai_GUNN/"
   },
   {
@@ -2503,7 +2516,10 @@
     "releaseDate": "2019",
     "developer": "Mugen community",
     "summary": "A fan-made 2D fighting game using the MUGEN engine, featuring characters from the Sengoku Basara series in combat scenarios.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/165/img1.webp",
+      "../src/img/165/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/sengokumugen/420065"
   },
   {
@@ -2515,7 +2531,11 @@
     "releaseDate": "2009",
     "developer": "Croteam",
     "summary": "A first-person shooter where players take on the role of Sam Serious Stone, battling hordes of enemies in various environments to save humanity. The sequel to The First Encounter, continuing Sam's battle against alien forces with new weapons, enemies, and expansive levels.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/166/img1.jpg",
+      "../src/img/166/img2.jpg",
+      "../src/img/166/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/41000/Serious_Sam_HD_The_First_Encounter/"
   },
   {
@@ -2527,7 +2547,10 @@
     "releaseDate": "1997",
     "developer": "Saurus",
     "summary": "A run-and-gun arcade game where players choose from multiple characters to rescue a scientist's granddaughter from a terrorist organization.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/167/img1.jpg",
+      "../src/img/167/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/366270/SHOCK_TROOPERS/"
   },
   {
@@ -2539,7 +2562,10 @@
     "releaseDate": "2011",
     "developer": "Teknopants",
     "summary": "A roguelike shooter combining elements of classic dungeon crawling and fast-paced gunplay, featuring procedurally generated levels.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/168/img1.bmp",
+      "../src/img/168/img2.bmp"
+    ],
     "shopLink": "https://download.cnet.com/shoot-first/3000-2099_4-75446711.html"
   },
   {
@@ -2551,7 +2577,10 @@
     "releaseDate": "2023",
     "developer": "JustOneDev",
     "summary": "Shopping Spree is a simple endless game where you play as a shopping cart and carry items from boxes into their respective shelves. ",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/169/img1.png",
+      "../src/img/169/img2.png"
+    ],
     "shopLink": "https://justonedev.itch.io/shopping-spree"
   },
   {
@@ -2563,7 +2592,10 @@
     "releaseDate": "2015",
     "developer": "Neon Deity Games",
     "summary": "A randomized shoot 'em up about a muscle-bound fish with memory problems defending the seven seas.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/170/img1.jpg",
+      "../src/img/170/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/332530/Shutshimi/"
   },
   {
@@ -2575,7 +2607,9 @@
     "releaseDate": "2007",
     "developer": "Beau Blyth",
     "summary": "An intense 8-bit game between 2 teams, with many available weapons and cards for battle.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/171/img1.webp"
+    ],
     "shopLink": "https://www.jetelecharge.com/Jeux/4685.php"
   },
   {
@@ -2587,7 +2621,10 @@
     "releaseDate": "2023",
     "developer": "True role dreams",
     "summary": "Fangame inspired by the Castlevania saga, in which you can choose between three completely original characters. The story and the development of the game, moreover, are adapted so that you can play both solo and in coop mode, with a friend playing on the same computer.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/172/img1.webp",
+      "../src/img/172/img2.webp"
+    ],
     "shopLink": "https://silver-nights-crusaders.en.uptodown.com/windows"
   },
   {
@@ -2599,7 +2636,10 @@
     "releaseDate": "2017",
     "developer": "Duncanbellsa",
     "summary": "Shadonk Showdown is a physics charged, multiplayer vehicle game wrapped in a South African theme. Fast reflexes, itchy trigger fingers and luck are needed to come out on top. The game concept, was sparked by the rich concentration of different individuals and cultures within South Africa – most importantly the Taxi culture.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/173/img1.png",
+      "../src/img/173/img2.jpg"
+    ],
     "shopLink": "https://duncanbellsa.itch.io/skadonk-showdown"
   },
   {
@@ -2611,7 +2651,10 @@
     "releaseDate": "2013",
     "developer": "17-BIT",
     "summary": "A turn-based strategy game where players control undead samurai in a quest for revenge in the afterlife.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/174/img1.jpg",
+      "../src/img/174/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/228960/Skulls_of_the_Shogun/"
   },
   {
@@ -2623,7 +2666,10 @@
     "releaseDate": "2018",
     "developer": "Demerara Games",
     "summary": "The great art exposition at Manor LeBleu unites some of the most valuable art pieces in one single place this night. You were hired to follow the trail of the most deceitful and sly spy known: your friend!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/175/img1.png",
+      "../src/img/175/img2.png"
+    ],
     "shopLink": "https://demeraragames.itch.io/sleight"
   },
   {
@@ -2635,7 +2681,10 @@
     "releaseDate": "2016",
     "developer": "orange08, yellowafterlife",
     "summary": "Snake Snafu is a 2 player game which can be played locally(hotseat) or online. A maximum of 3 players can play simultaneously. Snake Snafu has been designed and created primarily for a 2 Player experience. Single player mode may feel somewhat empty.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/176/img1.png",
+      "../src/img/176/img2.png"
+    ],
     "shopLink": "https://orange08.itch.io/snake-snafu"
   },
   {
@@ -2647,7 +2696,10 @@
     "releaseDate": "2021",
     "developer": "Nukeborn",
     "summary": "Top-down local multiplayer arena shooter where players can gather advantage via varied projectiles and power-ups. Snowman Arena connects everyone together in a fun way, no matter the age or level of the player.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/177/img1.jpg",
+      "../src/img/177/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/1768980/Snowman_Arena/"
   },
   {
@@ -2659,7 +2711,10 @@
     "releaseDate": "",
     "developer": "NeoRetroGames",
     "summary": "SRB2Kart is a classic styled kart racer, complete with beautiful courses, and wacky items. Of course, because it’s SRB2Kart, it has a Sonic twist that really shows the classic charm that a lot of us know and love from the good old days™",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/178/img1.png",
+      "../src/img/178/img2.gif"
+    ],
     "shopLink": "https://miimoka.itch.io/sonic-robo-blast-2-kart-fp"
   },
   {
@@ -2671,19 +2726,26 @@
     "releaseDate": "2022",
     "developer": "Reply Game Studios",
     "summary": "An action-adventure game where players control two sisters in a dark fantasy world, combining their abilities to combat enemies and uncover secrets.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/179/img1.jpg",
+      "../src/img/179/img2.jpg",
+      "../src/img/179/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/1602080/Soulstice/"
   },
   {
     "id": 180,
-    "title": "spaceship hunters",
+    "title": "Spaceship hunters",
     "players": 4,
     "multiplayerType": "coop",
     "genre": "shooter",
     "releaseDate": "2022",
     "developer": "Pierre Nury",
     "summary": "Spaceship Hunters is a chaotic couch co-op shoot-em-up for 4 players. Working as a crew, fight your way through the worst criminals the universe has to offer.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/180/img1.jpg",
+      "../src/img/180/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/1819290/Spaceship_Hunters/"
   },
   {
@@ -2695,7 +2757,11 @@
     "releaseDate": "2016",
     "developer": "Double dutch games",
     "summary": "Cut-throat multiplayer running game that pits 4 players against each other, locally and/or online. Run, jump, swing around, and use devious weapons and pick-ups to knock opponents off-screen! One of the most competitive games you'll ever play.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/181/img1.jpg",
+      "../src/img/181/img2.jpg",
+      "../src/img/181/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/207140/SpeedRunners/"
   },
   {
@@ -2707,7 +2773,11 @@
     "releaseDate": "2013",
     "developer": "Mossmouth",
     "summary": "A unique platformer with randomized levels, challenging players to explore underground caves filled with monsters, traps, and treasure.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/182/img1.jpg",
+      "../src/img/182/img2.jpg",
+      "../src/img/182/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/239350/Spelunky/"
   },
   {
@@ -2719,7 +2789,10 @@
     "releaseDate": "2013",
     "developer": "Cenobite 53",
     "summary": "A fan-made fighting game using the MUGEN engine, featuring characters from the Star Wars universe.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/183/img1.webp",
+      "../src/img/183/img2.webp"
+    ],
     "shopLink": "https://star-wars-the-ultimate-battle.en.uptodown.com/windows"
   },
   {
@@ -2731,7 +2804,9 @@
     "releaseDate": "2013",
     "developer": "MabsKMK",
     "summary": "Steel Warriors is a Metal Slug fan game created by MabsKMK for the M.U.G.E.N fighting game engine. You can choose over a variety of vehicles from the series, and fight the others in 1-on-1 battle. The game is still on development, currently on beta version 241213.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/184/img1.webp"
+    ],
     "shopLink": "https://mugen.fandom.com/wiki/Steel_Warriors"
   },
   {
@@ -2743,7 +2818,9 @@
     "releaseDate": "2020",
     "developer": "Mugen community",
     "summary": "A MUGEN-based game combining characters from the Street Fighter and SNK universes.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/185/img2.jpg"
+    ],
     "shopLink": "https://mugenplayer.blogspot.com/2020/05/street-fighter-snk-edition.html"
   },
   {
@@ -2755,7 +2832,10 @@
     "releaseDate": "2017",
     "developer": "Elecbyte",
     "summary": "An enhanced MUGEN version of Street Fighter II with additional features and characters.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/186/img1.jpg",
+      "../src/img/186/img2.jpg"
+    ],
     "shopLink": "https://steemit.com/gaming/@madviking/street-fighter-2-deluxe-2-m-u-g-e-n-a-lot-of-playability-modes-characters-and-challenges-for-free"
   },
   {
@@ -2767,19 +2847,26 @@
     "releaseDate": "",
     "developer": "Valkyrie Project",
     "summary": "An enhanced MUGEN version of Street Fighter II with additional features and characters.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/187/img1.jpg",
+      "../src/img/187/img2.jpg",
+      "../src/img/187/img3.jpg"
+    ],
     "shopLink": "https://gamebanana.com/mods/382658"
   },
   {
     "id": 188,
-    "title": "street of rage remake",
+    "title": "Street of rage remake",
     "players": 2,
     "multiplayerType": "versus/coop",
     "genre": "beat em up",
     "releaseDate": "2011",
     "developer": "BomberGames",
     "summary": "A fan-made remake of the classic beat 'em up series, combining elements from all three original games with new content.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/188/img1.webp",
+      "../src/img/188/img2.webp"
+    ],
     "shopLink": "https://street-rage-remake.fr.uptodown.com/windows"
   },
   {
@@ -2791,7 +2878,9 @@
     "releaseDate": "2022",
     "developer": "EverlastingGaming",
     "summary": "A fan-made beat 'em up game inspired by the Final Fight series, featuring enhanced graphics and gameplay.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/189/img1.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/SFFGPBootleg/698995"
   },
   {
@@ -2803,7 +2892,10 @@
     "releaseDate": "2019",
     "developer": "SethSafety",
     "summary": "A local multiplayer game for 2-4 players where participants compete to throw a decapitated head into a blazing pyre while avoiding friendly fire.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/190/img1.png",
+      "../src/img/190/img2.gif"
+    ],
     "shopLink": "https://sethsafety.itch.io/super-head-ball"
   },
   {
