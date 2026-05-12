@@ -1540,7 +1540,11 @@
     "releaseDate": "2019",
     "developer": "Max Pohlenz",
     "summary": "Indigo Viper is a fast-paced local multiplayer jump and shoot arena game that focuses on one-shot kills and speedy combat. Players battle in various arenas using different weapons and a mix of game modes, all with a nostalgic feel of late 90s console games. It supports up to four players locally and features plug-and-play controls.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/101/img1.jpg",
+      "../src/img/101/img2.jpg",
+      "../src/img/101/img3.jpg"
+    ],
     "shopLink": "https://bambivalent.itch.io/indigoviper"
   },
   {
@@ -1552,7 +1556,11 @@
     "releaseDate": "2014",
     "developer": "Causal Bit Games Inc.",
     "summary": "Insanity's Blade is an action platformer where players control Thurstan, a father journeying through hell to rescue the souls of his wife and child. It combines classic arcade action, RPG elements, and a gripping story with cutscenes and side quests. The game features both single-player and local co-op gameplay.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/102/img1.jpg",
+      "../src/img/102/img2.jpg",
+      "../src/img/102/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/334190/Insanitys_Blade/"
   },
   {
@@ -1564,7 +1572,11 @@
     "releaseDate": "2017",
     "developer": "Sombr Studio",
     "summary": "A multiplayer stealth arena game where all players are invisible. Use environmental cues, footprints, and sound to locate enemies while avoiding detection. The game features grid-based movement, diverse maps, characters, and abilities for highly strategic gameplay.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/103/img1.jpg",
+      "../src/img/103/img2.jpg",
+      "../src/img/103/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/375750/Invisigun_Reloaded/"
   },
   {
@@ -1576,7 +1588,11 @@
     "releaseDate": "2011",
     "developer": "Final Form Games",
     "summary": "Set in an alternate 17th-century British colonial Mars, Jamestown+ is a cooperative shoot-em-up that blends rich pixel art with an orchestral soundtrack. It is accessible for newcomers while challenging for die-hard genre fans, supporting up to four players.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/104/img1.jpg",
+      "../src/img/104/img2.jpg",
+      "../src/img/104/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/377950/Jamestown/"
   },
   {
@@ -1588,7 +1604,11 @@
     "releaseDate": "2018",
     "developer": "jackbreen",
     "summary": "Jawbreaker is a 2D arcade style beat em up. The rules are simple: get as high up the elevator as you can before meeting your fate at the hands of the enemies. Fight for the highest score! Jawbreaker can also be played with a buddy! Grab a friend and hit the elevator together as a team. Or, if you've got a score to settle, face off in Versus Mode!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/105/img1.gif",
+      "../src/img/105/img2.png",
+      "../src/img/105/img3.png"
+    ],
     "shopLink": "https://jackbreen-hg.itch.io/jawbreaker"
   },
   {
@@ -1600,7 +1620,10 @@
     "releaseDate": "1998",
     "developer": "Epic MegaGames",
     "summary": "A fast-paced platformer with a humorous tone, featuring Jazz and Spaz as playable characters. Known for its vibrant levels, unique gameplay mechanics, and multiplayer options, including co-op and competitive modes like capture the flag.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/106/img1.jpg",
+      "../src/img/106/img2.jpg"
+    ],
     "shopLink": "https://www.gog.com/fr/game/jazz_jackrabbit_2_collection"
   },
   {
@@ -1612,7 +1635,11 @@
     "releaseDate": "2020",
     "developer": "Zvitor",
     "summary": "A fan-made fighting game featuring Justice League characters in an engaging MUGEN-based platform. It offers a nostalgic experience with updated graphics and movesets for DC Comics fans.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/107/img1.webp",
+      "../src/img/107/img2.webp",
+      "../src/img/107/img3.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/justiceleagueTF2/467929"
   },
   {
@@ -1624,7 +1651,11 @@
     "releaseDate": "",
     "developer": "Community-based MUGEN project",
     "summary": "Kamen Rider Super Climax Heroes is a fan-made fighting game created with the MUGEN engine, featuring characters and transformations from the Kamen Rider franchise, including various Riders from different series with customizable moves and battles.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/108/img1.webp",
+      "../src/img/108/img2.webp",
+      "../src/img/108/img3.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/NOJOKETH/286242"
   },
   {
@@ -1636,7 +1667,11 @@
     "releaseDate": "2018",
     "developer": "Fury Studios, Stumpy Squid, and Coatsink",
     "summary": "A side-scrolling micro-strategy game that focuses on exploration, building, and resource management. Players act as monarchs, working to grow their kingdoms, recruit loyal subjects, and protect their lands from the mysterious Greed.",
-    "screenshots": [],
+    "screenshots": [  
+      "../src/img/109/img1.jpg",
+      "../src/img/109/img2.jpg",
+      "../src/img/109/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/701160/Kingdom_Two_Crowns"
   },
   {
@@ -1648,7 +1683,11 @@
     "releaseDate": "2013",
     "developer": "Fou the Mage of the Sun and brazilmugenteam",
     "summary": "A 2D fighting game featuring numerous Kirby characters, each with unique attacks and 'Hyper' ultimate moves. The gameplay is inspired by Kirby Super Star Ultra, offering pixel art visuals and retro vibes​",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/110/img1.png",
+      "../src/img/110/img2.png",
+      "../src/img/110/img3.gif"
+    ],
     "shopLink": "https://brazilmugenteam.itch.io/kirby-the-dream-battle"
   },
   {
@@ -1660,7 +1699,9 @@
     "releaseDate": "2013",
     "developer": "Pier Wolf",
     "summary": "A fan-made beat-em-up game inspired by classic arcade titles, set in a fantasy world reminiscent of Dungeons & Dragons, offering cooperative gameplay and exciting action sequences.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/111/img1.jpg"
+    ],
     "shopLink": "https://openborgames.com/knights-dragons-the-endless-quest-v-3-3-OpenBOR"
   },
   {
@@ -1672,7 +1713,9 @@
     "releaseDate": "2017",
     "developer": "Therese, Kim, Ivan & Erik",
     "summary": "A relaxing game about digging in the soil and picking apples to alter your environment. This game offers an engaging experience that grows on you.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/112/img1.png"
+    ],
     "shopLink": "https://nahkala.itch.io/kryp"
   },
   {
@@ -1684,7 +1727,11 @@
     "releaseDate": "2016",
     "developer": "Brimstone",
     "summary": "RUIN FRIENDSHIPS. ON ROCKETS. Challenge your friends to a GLORIOUS tournament of rocket jousting! Up to 4 players can fight each other locally – but only one will be left standing when the dust settles.",
-    "screenshots": [],
+    "screenshots": [  
+      "../src/img/113/img1.jpg",
+      "../src/img/113/img2.jpg",
+      "../src/img/113/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/495900/Lance_A_Lot_Classic_Edition"
   },
   {
@@ -1696,7 +1743,10 @@
     "releaseDate": "2016",
     "developer": "DmGregory",
     "summary": "Chase your opponents and knock down their dominoes - be the Last One Standing!",
-    "screenshots": [],
+    "screenshots": [  
+      "../src/img/114/img1.png",
+      "../src/img/114/img2.png"
+    ],
     "shopLink": "https://dmgregory.itch.io/last-one-standing"
   },
   {
@@ -1708,7 +1758,10 @@
     "releaseDate": "2013",
     "developer": "Robot Loves Kitty",
     "summary": "A visually striking roguelike with randomized dungeons and dynamic music. Players explore 26 unique floors full of traps, monsters, and treasures in solo or up to 4-player co-op. Features permadeath, unlockable classes, tameable pets, and VR mode for immersive gameplay.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/115/img1.jpg",
+      "../src/img/115/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/238280/Legend_of_Dungeon/"
   },
   {
@@ -1720,8 +1773,12 @@
     "releaseDate": "Varies (first LEGO game by TT Games was released in 2005, with many subsequent releases including 'LEGO Star Wars: The Skywalker Saga' in 2022).",
     "developer": "TT Games",
     "summary": "TT Games has developed numerous LEGO-themed video games based on popular franchises such as Star Wars, Harry Potter, Jurassic Park, and Marvel. These games combine puzzle-solving, combat, and exploration, with humor and co-op gameplay that appeals to players of all ages.",
-    "screenshots": [],
-    "shopLink": "https://www.ttgames.com/games/"
+    "screenshots": [
+      "../src/img/116/img1.webp",
+      "../src/img/116/img2.webp",
+      "../src/img/116/img3.webp"
+    ],
+    "shopLink": "https://www.ttgames.com/"
   },
   {
     "id": 117,
@@ -1732,7 +1789,10 @@
     "releaseDate": "2015",
     "developer": "Garden Knight Games",
     "summary": "Get thrown into randomly generated arenas that can only be seen by the light of the players and their weapons. Explore, collect weapons and upgrades, and do battle against your friends or the computer. Customize each game using a variety of configurable options.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/117/img1.jpg",
+      "../src/img/117/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/335560/Light_Bound/"
   },
   {
@@ -1744,7 +1804,11 @@
     "releaseDate": "2002",
     "developer": "Marti Wong and Starsky Wong",
     "summary": "A freeware side-scrolling fighting game supporting up to 8 players in local or online multiplayer. Players control unique characters with special attacks, engaging in single or co-op modes like survival or campaign battles against hordes of enemies.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/118/img1.jpg",
+      "../src/img/118/img2.webp",
+      "../src/img/118/img3.webp"
+    ],
     "shopLink": "https://www.lf2.net/index_en.html"
   },
   {
@@ -1756,7 +1820,11 @@
     "releaseDate": "2015",
     "developer": "Asteroid Base",
     "summary": "This colorful 2D arcade game blends action and platforming. Players control operators aboard a mobile space station, defending it against waves of enemies. Cooperation between players is key, as they manage turrets, shields, and other systems to navigate through the galaxy and restore peace.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/119/img1.jpg",
+      "../src/img/119/img2.jpg",
+      "../src/img/119/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/252110/Lovers_in_a_Dangerous_Spacetime/"
   },
   {
@@ -1768,7 +1836,10 @@
     "releaseDate": "2015",
     "developer": "Denis Lapiner",
     "summary": "Mad Snowboarding is an open-world snowboarding game where players race down mountains, perform tricks, and create custom levels to share with the community. The game supports split-screen multiplayer for up to four players and features worldwide high score challenges",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/120/img1.jpg",
+      "../src/img/120/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/399900/Mad_Snowboarding/"
   },
   {
@@ -1780,7 +1851,10 @@
     "releaseDate": "2017",
     "developer": "Zvitor",
     "summary": "Marvel Infinity War is a fan-made beat 'em up using the OpenBOR engine. It features 85 playable Marvel characters across various teams like the Avengers and X-Men, with unique moves and assist characters. Players battle through stages filled with bosses from the Marvel universe.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/121/img1.webp",
+      "../src/img/121/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/marvel-infinity-war/201435"
   },
   {
@@ -1792,7 +1866,11 @@
     "releaseDate": "2015",
     "developer": "Sileni Studios",
     "summary": "Mayan Death Robots is an artillery strategy game set in the Mayan civilization, where players control alien robots battling to destroy each other's power cores. The game combines the strategic depth of titles like Worms with unique mechanics, including landscape-altering blocks. It features both single-player and local multiplayer modes.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/122/img1.jpg",
+      "../src/img/122/img2.jpg",
+      "../src/img/122/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/347470/Mayan_Death_Robots/"
   },
   {
@@ -1804,7 +1882,11 @@
     "releaseDate": "2013",
     "developer": "Team Reptile",
     "summary": "Megabyte Punch is a fighting game where you can customize your own fighter. As you progress through different levels, you fight other creatures to collect body parts that grant new abilities and powers, creating a unique combat experience.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/123/img1.jpg",
+      "../src/img/123/img2.jpg",
+      "../src/img/123/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/248550/Megabyte_Punch/"
   },
   {
@@ -1816,7 +1898,10 @@
     "releaseDate": "2013",
     "developer": "Douglas Baldan",
     "summary": "This game is based, somehow, on Megaman Powered Up game.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/124/img1.webp",
+      "../src/img/124/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/megaman-powered-up-remix/19509"
   },
   {
@@ -1828,7 +1913,10 @@
     "releaseDate": "2019",
     "developer": "Douglas Baldan",
     "summary": "This is a fighting game in versus style, highly influenced by games like Marvel vs. Capcom.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/125/img1.webp",
+      "../src/img/125/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/robotmastermayhem/405160"
   },
   {
@@ -1840,7 +1928,10 @@
     "releaseDate": "2014",
     "developer": "SNK",
     "summary": "A classic arcade run-and-gun shooter with detailed pixel art, diverse levels, and intense boss battles.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/126/img1.jpg",
+      "../src/img/126/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/250180/METAL_SLUG_3/"
   },
   {
@@ -1852,7 +1943,10 @@
     "releaseDate": "2014",
     "developer": "SNK",
     "summary": "A fast-paced arcade shooter in the Metal Slug series known for refined gameplay and enhanced graphics.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/127/img1.jpg",
+      "../src/img/127/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/312610/METAL_SLUG_X/"
   },
   {
@@ -1864,7 +1958,9 @@
     "releaseDate": "2024",
     "developer": "ReinLv",
     "summary": "Mayor Mike Haggar takes on the notorious Mad Gear Gang, who have kidnapped his daughter Jessica to force him under their control. Joined by allies including Jessica’s boyfriend Cody, Haggar fights through the dangerous streets of Metro City—collecting food and weapons along the way—to rescue her and reclaim the city from crime.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/128/img1.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/mffr/515218"
   },
   {
@@ -1876,7 +1972,10 @@
     "releaseDate": "2015",
     "developer": "Daniloabella",
     "summary": "MK Defenders of the Earth is a non-profit fan-game based on the classic games of the MK saga. Powered on Mugen, this game uses Borg117's Season 2 FINAL (PATCH 4) as the base and material of the MKP 4.1 by MKP Team.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/129/img1.webp",
+      "../src/img/129/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/MKDE/84520"
   },
   {
@@ -1888,7 +1987,10 @@
     "releaseDate": "2017",
     "developer": "Kyra",
     "summary": "none",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/130/img1.webp",
+      "../src/img/130/img2.webp"
+    ],
     "shopLink": "https://www.youtube.com/watch?v=WZ2DJVLHh8k"
   },
   {
@@ -1900,7 +2002,10 @@
     "releaseDate": "2017",
     "developer": "NaBUru38",
     "summary": "Motorball Derby is a clash between motor sports and ball sports. You must bump the ball with a vehicle into the rival team's goal. No fouls, no kick button, no rockets. You can crash into you rivals and block them – be sure they will.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/131/img1.png",
+      "../src/img/131/img2.png"
+    ],
     "shopLink": "https://naburu38.itch.io/motorball-derby"
   },
   {
@@ -1912,7 +2017,10 @@
     "releaseDate": "2016",
     "developer": "Xelu, Those Awesome Guys",
     "summary": "A fast-paced multiplayer party game where constant movement is key to survival, featuring dynamic and chaotic gameplay.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/132/img1.jpg",
+      "../src/img/132/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/323850/Move_or_Die/"
   },
   {
@@ -1924,7 +2032,11 @@
     "releaseDate": "2016",
     "developer": "Metanet Software",
     "summary": "A minimalist, challenging platformer with precise controls and procedurally generated levels, supporting local multiplayer.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/133/img1.jpg",
+      "../src/img/133/img2.jpg",
+      "../src/img/133/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/230270/N_NPLUSPLUS/"
   },
   {
@@ -1936,7 +2048,10 @@
     "releaseDate": "2018",
     "developer": "TonyADV",
     "summary": "Neon Genesis Evangelion is a two-dimensional fight game where players control all the Evas of the mythical animated series Evangelion to combat their enemies, the fearsome Angels.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/134/img1.webp",
+      "../src/img/134/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/NGEMUGEN/641107"
   },
   {
@@ -1948,7 +2063,10 @@
     "releaseDate": "2015",
     "developer": "Jayenkai",
     "summary": "In true arcade classic fashion, NeonPlat starts on the left, and makes his way to the right. There are evil bad things along the way, and also a number of objects he can collect, pickup and occasionally throw.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/135/img1.avif",
+      "../src/img/135/img2.avif"
+    ],
     "shopLink": "https://neonplat.en.softonic.com/"
   },
   {
@@ -1960,7 +2078,10 @@
     "releaseDate": "2019",
     "developer": "Very soft owl",
     "summary": "Play alone or in a party with up to 4 friends on one device! Collaborate to beat the game together or see who will be the last one to survive!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/136/img1.webp",
+      "../src/img/136/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/neverendia/426445"
   },
   {
@@ -1972,7 +2093,11 @@
     "releaseDate": "2014",
     "developer": "Messhof",
     "summary": "A fast-paced, minimalist fencing duel game where players race through side-scrolling arenas to outmaneuver and defeat their opponents.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/137/img1.jpg",
+      "../src/img/137/img2.jpg",
+      "../src/img/137/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/94400/Nidhogg"
   },
   {
@@ -1984,7 +2109,10 @@
     "releaseDate": "2017",
     "developer": "Lingdong Huang",
     "summary": "Challenge your friend to this local 2-player face-biting simulation! Chew their face off while they yours! No bath salt needed.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/138/img1.png",
+      "../src/img/138/img2.gif"
+    ],
     "shopLink": "https://lingdonh.itch.io/normal-human-face-simulator"
   },
   {
@@ -1996,7 +2124,10 @@
     "releaseDate": "2016",
     "developer": "Sven Ahlgrimm",
     "summary": "Nuclear Reaction is a one-button local-multiplayer game for two to four players. The goal for each player is to survive a world-war, while everyone else gets destroyed.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/139/img1.jpg",
+      "../src/img/139/img2.jpg"
+    ],
     "shopLink": "https://svenahlgrimm.itch.io/nuclear-reaction"
   },
   {
@@ -2008,7 +2139,11 @@
     "releaseDate": "2004-2007",
     "developer": "Hydravision Entertainment",
     "summary": "A survival horror game where a group of high school students uncovers a sinister secret within their school, leading to a nightmarish battle for survival. The sequel continues the story of the survivors as they face new horrors in college, with cooperative gameplay and multiple playable characters.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/140/img1.jpg",
+      "../src/img/140/img2.jpg",
+      "../src/img/140/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/254460/Obscure/"
   },
   {
@@ -2020,7 +2155,10 @@
     "releaseDate": "2007",
     "developer": "OpenLierox team",
     "summary": "An open-source, real-time worm shooter game inspired by the classic Liero, featuring customizable weapons, levels, and online multiplayer.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/141/img1.png",
+      "../src/img/141/img2.png"
+    ],
     "shopLink": "https://www.openlierox.net/"
   },
   {
@@ -2032,7 +2170,10 @@
     "releaseDate": "2016",
     "developer": "Ghost town game",
     "summary": "A chaotic couch co-op cooking game where players must prepare and serve a variety of dishes under time constraints in increasingly challenging kitchens.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/142/img1.jpg",
+      "../src/img/142/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/448510/Overcooked/"
   },
   {
@@ -2044,7 +2185,10 @@
     "releaseDate": "2015",
     "developer": "Hipster Whale, 3 Sprockets",
     "summary": "An endless maze runner where Pac-Man must outmaneuver ghosts and a glitched screen, collecting power-ups and achieving high scores.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/143/img1.jpg",
+      "../src/img/143/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/455400/PACMAN_256/"
   },
   {
@@ -2056,7 +2200,9 @@
     "releaseDate": "none",
     "developer": "King Penguin",
     "summary": "A mashup of classic arcade games combining elements of Pac-Man, Pong, and Space Invaders into a single competitive experience.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/144/img1.gif"
+    ],
     "shopLink": "https://kingpenguin.itch.io/pacapong"
   },
   {
@@ -2068,7 +2214,10 @@
     "releaseDate": "2010",
     "developer": "No fun games",
     "summary": "A one-button real-time strategy game where players control factories that produce units to battle for supremacy in the depths of the ocean.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/145/img1.png",
+      "../src/img/145/img2.png"
+    ],
     "shopLink": "https://gangles.itch.io/pax-britannica"
   },
   {
@@ -2080,7 +2229,10 @@
     "releaseDate": "2015",
     "developer": "Self Made Miracle",
     "summary": "A frantic 2D arena arcade game where a contestant must survive deadly traps in a sinister circus show.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/146/img1.jpg",
+      "../src/img/146/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/307590/Penarium/"
   },
   {
@@ -2092,7 +2244,10 @@
     "releaseDate": "2013",
     "developer": "Nik",
     "summary": "A rival club has opened downtown that is putting the Party King out of business. He hires you and your friends to infiltrate the club and get the clubbers to fight each other!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/147/img1.webp",
+      "../src/img/147/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/pestering-party-plebs-for-pizza/18983"
   },
   {
@@ -2104,7 +2259,11 @@
     "releaseDate": "2016",
     "developer": "Bonfire Games",
     "summary": "A cooperative puzzle-adventure game where two robots explore a mysterious planet, solving puzzles and collecting treasures.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/148/img1.jpg",
+      "../src/img/148/img2.jpg",
+      "../src/img/148/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/464900/Pitfall_Planet/"
   },
   {
@@ -2116,7 +2275,10 @@
     "releaseDate": "2013",
     "developer": "Double Eleven, Q-Games Ltd.",
     "summary": "A tower defense game where players control Tikiman, defending his offspring from hordes of monsters by strategically building weapon towers.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/149/img1.jpg",
+      "../src/img/149/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/243780/PixelJunk_Monsters_Ultimate/"
   },
   {
@@ -2128,7 +2290,10 @@
     "releaseDate": "2015",
     "developer": "Miguel Murça",
     "summary": "A multiplayer game where 2 to 6 players test various mechanics in a corporate-themed environment, supporting keyboard and Xbox controller inputs.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/150/img1.png",
+      "../src/img/150/img2.png"
+    ],
     "shopLink": "https://miguelmurca.itch.io/psi"
   },
   {
