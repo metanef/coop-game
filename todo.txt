@@ -1,14 +1,14 @@
 # TODO List
 
 ## High Priority
-- [ ] Task 1: Add every pictures
+- [x] Task 1: Add every pictures
 - [x] Task 2: Rename Pictures folders
 - [ ] Task 3: add number to each game page
 
 ## Medium Priority
-- [x] Task 3: Make an icon for the website
-- [x] Task 4: find a way to stock images
+- [x] Task 1: Make an icon for the website
+- [x] Task 2: find a way to stock images
 
 ## Low Priority
-- [x] Task 5: add arrow on game detail to navigate to the next and precedent game
-- [ ] Task 6: extraire header dans un fichier à part et l'importer dans chaque page
+- [x] Task 1: add arrow on game detail to navigate to the next and precedent game
+- [ ] Task 2: extraire header dans un fichier à part et l'importer dans chaque page

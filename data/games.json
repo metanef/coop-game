@@ -3058,7 +3058,10 @@
     "releaseDate": "",
     "developer": "Kamekaze",
     "summary": "A fan-made fighting game using the MUGEN engine, featuring characters from both the Teenage Mutant Ninja Turtles and the Justice League universes. https://mugenguild.com/forum/topics/teenage-mutant-ninja-turtles-x-justice-league-updated41720-189648.0.html",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/201/img1.jpg",
+      "../src/img/201/img2.jpg"
+    ],
     "shopLink": "https://kamekaze.world/xjlt/"
   },
   {
@@ -3070,7 +3073,10 @@
     "releaseDate": "2019",
     "developer": "MersoX",
     "summary": "A fan-made beat 'em up game developed using the OpenBOR engine, featuring numerous playable characters from the TMNT universe.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/202/img1.webp",
+      "../src/img/202/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/TMNT-Rescue-Palooza/39658"
   },
   {
@@ -3082,7 +3088,11 @@
     "releaseDate": "2015",
     "developer": "Sinister Design",
     "summary": "A turn-based strategy RPG set in a steampunk universe, featuring destructible battlefields and environmental hazards.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/203/img1.jpg",
+      "../src/img/203/img2.jpg",
+      "../src/img/203/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/357940/Telepath_Tactics/"
   },
   {
@@ -3094,7 +3104,11 @@
     "releaseDate": "",
     "developer": "pixel-boy",
     "summary": "The game is a Roguelike mixed with Dance dance revolution mechanic, 1 - 4 players local coop, with gamepad support, French and English languages.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/204/img1.png",
+      "../src/img/204/img2.png",
+      "../src/img/204/img3.png"
+    ],
     "shopLink": "https://pixel-boy.itch.io/tempo-quest"
   },
   {
@@ -3106,7 +3120,10 @@
     "releaseDate": "2013",
     "developer": "Mana Games",
     "summary": "A tennis simulation game praised for its realistic gameplay and physics, offering both single-player and multiplayer modes.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/205/img1.jpg",
+      "../src/img/205/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/346470/Tennis_Elbow_2013/"
   },
   {
@@ -3118,7 +3135,11 @@
     "releaseDate": "",
     "developer": "Hur4c4n",
     "summary": "A fan-made fighting game using the MUGEN engine, featuring horror movie characters as fighters.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/206/img1.jpg",
+      "../src/img/206/img2.jpg",
+      "../src/img/206/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/1291170/Terrordrome__Reign_of_the_Legends/"
   },
   {
@@ -3130,7 +3151,11 @@
     "releaseDate": "2014",
     "developer": "Free Lives",
     "summary": "A crossover game combining the action of Broforce with characters from The Expendables film series, offering explosive side-scrolling gameplay.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/207/img1.jpg",
+      "../src/img/207/img2.jpg",
+      "../src/img/207/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/312990/The_Expendabros/"
   },
   {
@@ -3142,7 +3167,10 @@
     "releaseDate": "2024",
     "developer": "Gabotico",
     "summary": "A fan-made beat 'em up game using the OpenBOR engine, featuring enhanced graphics and extended content from the original 8-bit TMNT games.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/208/img1.webp",
+      "../src/img/208/img2.webp"
+    ],
     "shopLink": "https://gamejolt.com/games/TMNTRE/911813"
   },
   {
@@ -3154,7 +3182,10 @@
     "releaseDate": "",
     "developer": "Zelgadis",
     "summary": "A MUGEN adaptation of the classic TMNT Tournament Fighters game from the NES era, featuring enhanced gameplay and character roster.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/209/img1.jpg",
+      "../src/img/209/img2.jpg"
+    ],
     "shopLink": "https://gamebanana.com/mods/379064"
   },
   {
@@ -3166,7 +3197,10 @@
     "releaseDate": "2016",
     "developer": "Sofa Squadron",
     "summary": "A multiplayer rhythm game in which each player is a musical toad. Press a button to sing when the wave hits you. If you miss, you're eliminated!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/210/img1.png",
+      "../src/img/210/img2.png"
+    ],
     "shopLink": "https://sofasquadron.itch.io/toadalwar"
   },
   {
@@ -3178,7 +3212,11 @@
     "releaseDate": "2017",
     "developer": "Schrolab",
     "summary": "Totemori is a free-to-play local-multiplayer brawler where you build towers while trying to topple everyone else’s!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/211/img1.png",
+      "../src/img/211/img2.jpg",
+      "../src/img/211/img3.jpg"
+    ],
     "shopLink": "https://schrolab.itch.io/totemori"
   },
   {
@@ -3190,7 +3228,10 @@
     "releaseDate": "2019",
     "developer": "Super Fight Team",
     "summary": "A life investment in intense training has transformed one man into a chiseled form of near perfection. The level of vitality flowing through his body is astounding. This man, Cula, is restless for lack of a suitable adversary.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/212/img1.gif",
+      "../src/img/212/img2.gif"
+    ],
     "shopLink": "https://www.superfighter.com/tough/index.html"
   },
   {
@@ -3202,7 +3243,10 @@
     "releaseDate": "2015",
     "developer": "Davioware",
     "summary": "TowerClimb is a difficult and rewarding procedurally generated platformer with roguelike elements. Enormous and mysterious towers of ancient unknown origin stand above humanity, extending to the heavens. Struggle forward as a weak human, driven by an iron will to reach the top.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/213/img1.jpg",
+      "../src/img/213/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/396640/TowerClimb/"
   },
   {
@@ -3214,7 +3258,10 @@
     "releaseDate": "2014",
     "developer": "Maddy Makes Games Inc.",
     "summary": "TowerFall Ascension is the definitive version of the hit archery combat game. Inspired by classics from the golden age of couch multiplayer, it's a 4-player local party game centering around hilarious, intense versus matches. The core mechanics are simple and accessible, but hard to master and combat is fierce.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/214/img1.jpg",
+      "../src/img/214/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/251470/TowerFall_Ascension"
   },
   {
@@ -3226,7 +3273,11 @@
     "releaseDate": "2015",
     "developer": "Transhuman Design",
     "summary": "Trench Run is a mayhem-filled, laugh a minute casual 4-player action game brought to you by the makers of King Arthur’s Gold and Soldat.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/215/img1.jpg",
+      "../src/img/215/img2.jpg",
+      "../src/img/215/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/262100/Trench_Run"
   },
   {
@@ -3238,7 +3289,10 @@
     "releaseDate": "",
     "developer": "Yobllud",
     "summary": "Turbo Taucher is a action-oriented multiplayer diving game! You and up to 3 Opponents search for hidden Treasure in the deep sea. An epic fight will take place over whom will dominate the other players. Dodge their TURBO-Attacks to be safe or try for yourself to forcefully get ahold of their earnings.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/216/img1.gif",
+      "../src/img/216/img2.gif"
+    ],
     "shopLink": "https://yobllud.itch.io/turbo-taucher"
   },
   {
@@ -3250,7 +3304,10 @@
     "releaseDate": "2020",
     "developer": "Indoor Astronaut",
     "summary": "Unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/217/img1.jpg",
+      "../src/img/217/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/1016920/Unrailed/"
   },
   {
@@ -3262,7 +3319,10 @@
     "releaseDate": "Coming soon",
     "developer": "Osarion",
     "summary": "The prologue is available but the complete game is coming soon. Unsung Warriors is a 2D action-adventure game. The game can be played solo or in couch co-op mode. Enjoy beautiful handcrafted levels. Fight against ferocious enemies and discover the many secrets of this ancient world.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/218/img1.png",
+      "../src/img/218/img2.gif"
+    ],
     "shopLink": "https://unsungwarriors.itch.io/unsung-warriors-prologue"
   },
   {
@@ -3274,7 +3334,10 @@
     "releaseDate": "2015",
     "developer": "Outlier Interactive",
     "summary": "V-TEXER is a high speed racing game, inspired by futuristic racing games like F-Zero and Wipeout. Players race each other on twisting roller coaster-like race tracks at over 1000 km/h!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/219/img1.png",
+      "../src/img/219/img2.png"
+    ],
     "shopLink": "https://outlier.itch.io/vtexer"
   },
   {
@@ -3286,7 +3349,11 @@
     "releaseDate": "2018",
     "developer": "Nuke Nine",
     "summary": "Vagante is an action-packed platformer that features permanent death and procedurally generated levels. Play cooperatively with friends both locally and online, or adventure solo in this challenging roguelike-inspired game.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/220/img1.jpg",
+      "../src/img/220/img2.jpg",
+      "../src/img/220/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/323220/Vagante/"
   },
   {
@@ -3298,7 +3365,10 @@
     "releaseDate": "2018",
     "developer": "Stevie G",
     "summary": "A de-make of the old arcade favourite Super-Sprint for 1 or 2 players. ",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/221/img1.png",
+      "../src/img/221/img2.png"
+    ],
     "shopLink": "https://stevieg.itch.io/van-tourisimo"
   },
   {
@@ -3310,7 +3380,10 @@
     "releaseDate": "2017",
     "developer": "Viperleague",
     "summary": "Viper League is a local multiplayer snake arena combat game for 2-8 players.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/222/img1.png",
+      "../src/img/222/img2.png"
+    ],
     "shopLink": "https://viperleague.itch.io/play"
   },
   {
@@ -3322,7 +3395,10 @@
     "releaseDate": "2020",
     "developer": "Wanba studio",
     "summary": "Have you got what it takes to be a Wanba Warrior? Step into the absurd world of calligraphy combat and prepare to lay the smackdown upon all who dare to oppose you, dishing out damage with your chosen ink brush of brutality! highly recommend playing with controllers.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/223/img1.jpg",
+      "../src/img/223/img2.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/1021770/_Wanba_Warriors/"
   },
   {
@@ -3334,7 +3410,10 @@
     "releaseDate": "2018",
     "developer": "Zuggamasta",
     "summary": "This game is based on fantasy Famicon cartridges. It is designed around one of those Cartridges with the title Wave For Me",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/224/img1.png",
+      "../src/img/224/img2.png"
+    ],
     "shopLink": "https://zuggamasta.itch.io/wave-for-me"
   },
   {
@@ -3346,7 +3425,11 @@
     "releaseDate": "1999",
     "developer": "Team 17 Digital Ltd",
     "summary": "Those intrepid invertebrates return with a vengeance in the much-loved Worms™ Armageddon. It’s a whole new can of worms! It’s hilarious fun that you can enjoy on your own or with all your friends.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/225/img1.jpg",
+      "../src/img/225/img2.jpg",
+      "../src/img/225/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/217200/worms_armageddon/"
   },
   {
@@ -3358,7 +3441,11 @@
     "releaseDate": "2010",
     "developer": "Team 17 Digital Ltd",
     "summary": "Ten years on from Worms™ Armageddon and the turn-based comic mayhem continues in Worms™ Reloaded, an all-new edition available for PC through Steam.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/226/img1.jpg",
+      "../src/img/226/img2.jpg",
+      "../src/img/226/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/22600/Worms_Reloaded/"
   },
   {
@@ -3370,7 +3457,11 @@
     "releaseDate": "2015",
     "developer": "Team 17 Digital Ltd",
     "summary": "Imagine taking the perfect online gaming experience and one of the most popular Worms games ever made, adding a touch of Steam achievements, leaderboards, cloud saves, full controller support; a little sprinkle of 1080 / 60FPS, and you have Worms World Party Remastered!",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/227/img1.jpg",
+      "../src/img/227/img2.jpg",
+      "../src/img/227/img3.jpg"
+    ],
     "shopLink": "https://store.steampowered.com/app/270910/Worms_World_Party_Remastered/"
   },
   {
@@ -3382,7 +3473,11 @@
     "releaseDate": "2006",
     "developer": "Yuke’s",
     "summary": "WWE SmackDown vs. Raw 2007 is a professional wrestling video game developed by Yuke’s and published by THQ. It is based on the professional wrestling promotion World Wrestling Entertainment (WWE)",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/228/img1.jpg",
+      "../src/img/228/img2.jpg",
+      "../src/img/228/img3.jpg"
+    ],
     "shopLink": "https://oldgamesdownload.com/wwe-smackdown-vs-raw-2007-u34/"
   },
   {
@@ -3394,7 +3489,10 @@
     "releaseDate": "2005",
     "developer": "Raven Software Corporation, SuperVillain Studios, Inc., Vicarious Visions, Inc.",
     "summary": "X-Men Legends II: Rise of Apocalypse is an action role-playing game developed primarily by Raven Software and published by Activision.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/229/img1.jpg",
+      "../src/img/229/img2.jpg"
+    ],
     "shopLink": "https://oldgamesdownload.com/x-men-legends-ii-rise-of-apocalypse/"
   },
   {
@@ -3406,7 +3504,11 @@
     "releaseDate": "2015",
     "developer": "Bohfam",
     "summary": "Frantic rogue-lite, action platformer, and tower defense, with a little rpg elements.",
-    "screenshots": [],
+    "screenshots": [
+      "../src/img/230/img1.png",
+      "../src/img/230/img2.png",
+      "../src/img/230/img3.png"
+    ],
     "shopLink": "https://bohfam.itch.io/xo-planets"
   }
 ]
