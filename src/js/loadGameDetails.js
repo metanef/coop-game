@@ -29,6 +29,7 @@ export async function loadGameDetails(gameId) {
 function updateGameDetails(game) {
     document.title = game.title;
     document.getElementById('game-title').innerText = game.title;
+    document.getElementById('game-id').innerText = game.id;
     document.getElementById('game-players').innerText = game.players.toString();
     document.getElementById('game-genre').innerText = game.genre;
     document.getElementById('multiplayer-type').innerText = game.multiplayerType;

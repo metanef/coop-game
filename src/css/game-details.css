@@ -1,5 +1,5 @@
 /* BENTO BLACK - Game Details */
-#game-title {
+#game-title, #game-id {
   padding-top: 20px;
   text-align: center;
   font-size: 36px;
@@ -8,8 +8,14 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
-  margin-bottom: 40px;
   line-height: 1.2;
+}
+.game-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
 }
 
 .game-info {

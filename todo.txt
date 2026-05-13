@@ -3,7 +3,7 @@
 ## High Priority
 - [x] Task 1: Add every pictures
 - [x] Task 2: Rename Pictures folders
-- [ ] Task 3: add number to each game page
+- [x] Task 3: add number to each game page
 
 ## Medium Priority
 - [x] Task 1: Make an icon for the website
